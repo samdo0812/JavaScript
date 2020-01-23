@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
 //ex 1)
 if(true){
     alert('result : true');
@@ -32,6 +25,3 @@ if(false){
     alert(4);
 }
 alert(5);
-</script>
-</body>
-</html>
