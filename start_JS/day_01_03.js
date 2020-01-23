@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
+
 	alert("Hello\nWorld");
 	alert("Hello"+" "+"World_02");
 
@@ -16,6 +10,3 @@
 	alert("code".indexOf("o"));
 	alert("code".indexOf("d"));
 	alert("code".indexOf("e"));
-</script>
-</body>
-</html>

@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
+
 	alert("coding");
 	alert('coding_02');
 	alert("'coding_03'");
@@ -13,6 +7,3 @@
 
 	alert(1);
 	alert("1");
-</script>
-</body>
-</html>

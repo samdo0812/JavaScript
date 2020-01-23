@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
 	alert(1);
 	Math.pow(3,2);	//9
 	Math.round(10.6); //11
@@ -14,6 +7,3 @@
 	
 	Math.random(); //1보다 작은 난수
 	Math.round(100 * Math.random()); 
-</script>
-</body>
-</html>
